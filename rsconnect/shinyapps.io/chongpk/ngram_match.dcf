@@ -1,0 +1,12 @@
+name: ngram_match
+title: ngram_match
+username:
+account: chongpk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3824403
+bundleId: 4371977
+url: https://chongpk.shinyapps.io/ngram_match/
+when: 1616232060.14769
+asMultiple: FALSE
+asStatic: FALSE
